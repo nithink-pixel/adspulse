@@ -1,0 +1,81 @@
+advertiser_id,advertiser_name,industry,segment,region,account_owner,start_date
+ADV001,Advertiser_1,Auto,Enterprise,EMEA,AE_8,2024-05-21
+ADV002,Advertiser_2,Retail,Mid-Market,APAC,AE_5,2024-01-21
+ADV003,Advertiser_3,Tech,Enterprise,LATAM,AE_4,2024-02-17
+ADV004,Advertiser_4,Auto,SMB,North America,AE_2,2024-05-27
+ADV005,Advertiser_5,Finance,Mid-Market,APAC,AE_6,2024-05-07
+ADV006,Advertiser_6,Media,SMB,EMEA,AE_6,2024-05-15
+ADV007,Advertiser_7,Tech,Mid-Market,North America,AE_11,2024-05-14
+ADV008,Advertiser_8,Tech,SMB,North America,AE_1,2024-05-24
+ADV009,Advertiser_9,Auto,SMB,North America,AE_9,2024-05-07
+ADV010,Advertiser_10,Travel,Enterprise,APAC,AE_11,2024-02-02
+ADV011,Advertiser_11,Finance,SMB,EMEA,AE_6,2024-06-24
+ADV012,Advertiser_12,Auto,SMB,North America,AE_3,2024-04-24
+ADV013,Advertiser_13,Finance,SMB,LATAM,AE_4,2024-04-28
+ADV014,Advertiser_14,Finance,SMB,North America,AE_11,2024-01-22
+ADV015,Advertiser_15,Media,SMB,North America,AE_4,2024-06-06
+ADV016,Advertiser_16,Tech,SMB,APAC,AE_3,2024-02-07
+ADV017,Advertiser_17,Retail,Enterprise,APAC,AE_10,2024-04-18
+ADV018,Advertiser_18,Media,Enterprise,EMEA,AE_3,2024-02-20
+ADV019,Advertiser_19,Media,Enterprise,LATAM,AE_3,2024-01-08
+ADV020,Advertiser_20,Finance,Mid-Market,APAC,AE_4,2024-01-27
+ADV021,Advertiser_21,Healthcare,Mid-Market,North America,AE_7,2024-01-27
+ADV022,Advertiser_22,Tech,Mid-Market,EMEA,AE_4,2024-01-21
+ADV023,Advertiser_23,Travel,SMB,North America,AE_9,2024-01-30
+ADV024,Advertiser_24,Media,Mid-Market,North America,AE_1,2024-04-06
+ADV025,Advertiser_25,Retail,Mid-Market,APAC,AE_8,2024-01-28
+ADV026,Advertiser_26,Healthcare,SMB,EMEA,AE_7,2024-04-20
+ADV027,Advertiser_27,Healthcare,Enterprise,LATAM,AE_2,2024-03-01
+ADV028,Advertiser_28,Travel,SMB,LATAM,AE_8,2024-02-17
+ADV029,Advertiser_29,Media,Enterprise,APAC,AE_1,2024-05-26
+ADV030,Advertiser_30,Retail,SMB,APAC,AE_11,2024-01-04
+ADV031,Advertiser_31,Tech,SMB,EMEA,AE_9,2024-02-04
+ADV032,Advertiser_32,E-Commerce,Enterprise,LATAM,AE_9,2024-02-18
+ADV033,Advertiser_33,Retail,Enterprise,LATAM,AE_2,2024-01-17
+ADV034,Advertiser_34,Travel,SMB,LATAM,AE_7,2024-06-20
+ADV035,Advertiser_35,Healthcare,SMB,North America,AE_10,2024-06-06
+ADV036,Advertiser_36,Tech,SMB,LATAM,AE_3,2024-02-15
+ADV037,Advertiser_37,Retail,SMB,North America,AE_7,2024-04-26
+ADV038,Advertiser_38,E-Commerce,Enterprise,EMEA,AE_10,2024-01-06
+ADV039,Advertiser_39,E-Commerce,Mid-Market,North America,AE_9,2024-04-08
+ADV040,Advertiser_40,Finance,Enterprise,EMEA,AE_4,2024-05-03
+ADV041,Advertiser_41,Finance,SMB,LATAM,AE_1,2024-02-06
+ADV042,Advertiser_42,Auto,SMB,LATAM,AE_2,2024-01-24
+ADV043,Advertiser_43,Travel,Mid-Market,EMEA,AE_1,2024-04-02
+ADV044,Advertiser_44,Media,Enterprise,APAC,AE_5,2024-02-15
+ADV045,Advertiser_45,Retail,Mid-Market,EMEA,AE_5,2024-04-04
+ADV046,Advertiser_46,Retail,Mid-Market,APAC,AE_11,2024-04-08
+ADV047,Advertiser_47,Media,SMB,North America,AE_7,2024-04-25
+ADV048,Advertiser_48,Auto,SMB,North America,AE_9,2024-06-08
+ADV049,Advertiser_49,Healthcare,SMB,North America,AE_9,2024-06-09
+ADV050,Advertiser_50,Healthcare,Mid-Market,LATAM,AE_3,2024-03-07
+ADV051,Advertiser_51,Auto,Enterprise,North America,AE_3,2024-05-07
+ADV052,Advertiser_52,Healthcare,SMB,APAC,AE_3,2024-01-18
+ADV053,Advertiser_53,Finance,SMB,North America,AE_4,2024-01-25
+ADV054,Advertiser_54,Retail,SMB,EMEA,AE_8,2024-02-23
+ADV055,Advertiser_55,Auto,SMB,EMEA,AE_6,2024-02-27
+ADV056,Advertiser_56,Retail,Mid-Market,LATAM,AE_8,2024-03-07
+ADV057,Advertiser_57,Media,SMB,EMEA,AE_1,2024-04-13
+ADV058,Advertiser_58,E-Commerce,Mid-Market,APAC,AE_8,2024-06-22
+ADV059,Advertiser_59,Finance,Enterprise,North America,AE_4,2024-01-24
+ADV060,Advertiser_60,Tech,Enterprise,LATAM,AE_11,2024-04-23
+ADV061,Advertiser_61,Finance,Enterprise,North America,AE_1,2024-02-01
+ADV062,Advertiser_62,Auto,SMB,North America,AE_8,2024-06-23
+ADV063,Advertiser_63,Tech,Mid-Market,APAC,AE_4,2024-03-26
+ADV064,Advertiser_64,E-Commerce,SMB,EMEA,AE_6,2024-05-30
+ADV065,Advertiser_65,Auto,SMB,EMEA,AE_8,2024-05-06
+ADV066,Advertiser_66,Travel,Mid-Market,North America,AE_4,2024-06-03
+ADV067,Advertiser_67,Retail,Mid-Market,LATAM,AE_3,2024-05-09
+ADV068,Advertiser_68,E-Commerce,SMB,EMEA,AE_9,2024-01-17
+ADV069,Advertiser_69,Retail,Mid-Market,LATAM,AE_3,2024-04-13
+ADV070,Advertiser_70,Healthcare,Enterprise,EMEA,AE_9,2024-06-09
+ADV071,Advertiser_71,Travel,Mid-Market,LATAM,AE_2,2024-05-16
+ADV072,Advertiser_72,Travel,Enterprise,APAC,AE_2,2024-02-12
+ADV073,Advertiser_73,E-Commerce,SMB,LATAM,AE_2,2024-06-24
+ADV074,Advertiser_74,Travel,SMB,APAC,AE_6,2024-02-08
+ADV075,Advertiser_75,Tech,SMB,APAC,AE_3,2024-06-18
+ADV076,Advertiser_76,Travel,SMB,LATAM,AE_9,2024-01-26
+ADV077,Advertiser_77,Retail,SMB,APAC,AE_4,2024-04-08
+ADV078,Advertiser_78,Retail,Enterprise,North America,AE_1,2024-02-19
+ADV079,Advertiser_79,Auto,SMB,APAC,AE_4,2024-06-01
+ADV080,Advertiser_80,Retail,SMB,EMEA,AE_1,2024-05-31

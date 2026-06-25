@@ -1,0 +1,13 @@
+rule_id,rule,passed,failed,pass_rate,status
+R01,No negative spend,17496,153,99.13,✗ FAIL
+R02,Clicks <= Impressions,17649,0,100.0,✓ PASS
+R03,Conversions <= Clicks,17387,262,98.52,✗ FAIL
+R04,No null advertiser_id,17649,0,100.0,✓ PASS
+R05,No null campaign_id,17649,0,100.0,✓ PASS
+R06,No null date,17649,0,100.0,✓ PASS
+R07,Spend not excessively high,17648,1,99.99,✗ FAIL
+R08,Impressions > 0,17649,0,100.0,✓ PASS
+R09,Revenue >= 0,17649,0,100.0,✓ PASS
+R10,No null channel,17649,0,100.0,✓ PASS
+R11,No null region,17649,0,100.0,✓ PASS
+R12,No zero-click with conversions,17387,262,98.52,✗ FAIL
