@@ -250,7 +250,7 @@ with tab3:
             return "background-color: #14532d; color: #86efac"
         return "background-color: #7f1d1d; color: #fca5a5"
 
-    styled = val.style.applymap(color_status, subset=["status"])
+    styled = val.style.map(color_status, subset=["status"])
     st.dataframe(styled, use_container_width=True, height=420)
 
     st.markdown("---")
