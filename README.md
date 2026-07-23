@@ -2,7 +2,7 @@
 
 AdsPulse combines campaign analytics, A/B experimentation, multi-touch attribution, cohort & lifetime-value analysis, incrementality measurement, KPI governance, and auto-generated executive recommendations in one platform — built to answer the questions a marketing leadership team actually asks, not just display what happened.
 
-**Live App:** https://nithink-pixel-adspulse.streamlit.app
+**Live App:** [https://nithink-pixel-adspulse.streamlit.app](https://adspulse-nithinpixel.streamlit.app/)
 **GitHub:** https://github.com/nithink-pixel/adspulse
 
 ## Why This Exists
